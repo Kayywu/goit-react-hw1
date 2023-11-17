@@ -1,0 +1,38 @@
+
+.dot {
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    display: flex;
+}
+  
+.item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+  .online {
+    background-color: green;
+  }
+  
+  .offline {
+    background-color: red;
+  }
+  
+  .avatar {
+    border-radius: 50%;
+    margin-right: 20px;
+    background-color: beige;
+    padding: 18px;
+  }
+  
+
+  .name {
+    font-weight: bold;
+    font-size: 16px;
+    color: #333;
+    text-align: center;
+    margin-right: 15px;
+  }
+
