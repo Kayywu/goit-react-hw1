@@ -7,7 +7,7 @@
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: 16px;
+    margin: 20px;
   }
   
   .description {
@@ -45,6 +45,7 @@
     width: 100%;
     background-color: #f0f0f0;
     border-top: 1px solid #ddd;
+    margin: 20px;
   }
   
   .stats li {

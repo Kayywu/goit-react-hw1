@@ -13,7 +13,7 @@ import css from './TransactionHistory.module.css'
               </tr>
             </thead>
             <tbody>
-              {items.map(( id, type, amount, currency ) => {
+              {items.map(({ id, type, amount, currency }) => {
                 return (
                 <tr key={id}>
                   <td>{type}</td>

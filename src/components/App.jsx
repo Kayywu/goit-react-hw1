@@ -17,7 +17,7 @@ export const App = () => {
         display: 'flex',
         justifyContent: 'center',
         alignContent: 'space-around',
-        fontSize: 40,
+        fontSize: 20,
         color: '#010101'
       }}
     >
